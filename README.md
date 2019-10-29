@@ -16,4 +16,4 @@ $ word-freq-table filename k
 ```
 $ node word-freq-table.cs filename k
 ```
-Where filename is the text file you are analysing, and k is the maximum number of words printed.
+Where `filename` is the text file you are analysing, and `k` is the maximum number of words printed.
