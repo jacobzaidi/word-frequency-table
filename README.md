@@ -1,3 +1,7 @@
+## About Word Frequency Table
+
+Word Frequency Table finds the k most common words in any given file. A word is defined as consecutive sequences of ASCII alphabetical letters (A-Za-z). Examples of words include A, AA, AAaa, and aA.
+
 ## Instructions for how to develop, use, and test the code.
 
 Assuming the C\#, F\# and Node compilers are on the current PATH, you may type the following into your terminal.
@@ -12,4 +16,4 @@ $ word-freq-table filename k
 ```
 $ node word-freq-table.cs filename k
 ```
-to print the k most frequent words, where filename is the text file you are analysing
+Where filename is the text file you are analysing, and k is the maximum number of words printed.
