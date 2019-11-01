@@ -1,6 +1,6 @@
 ## About Word Frequency Table
 
-Word Frequency Table finds the _k_ most common words in any given file. A word is defined as consecutive sequences of ASCII alphabetical letters (A-Za-z). Examples of words include A, AA, AAaa, and aA.
+Word Frequency Table finds the _k_ most common words in any given file. A word is defined as consecutive sequences of ASCII alphabetical letters (A-Za-z). Examples of words include A, AA, AAaa, and aAa.
 
 ## Instructions for how to develop, use, and test the code.
 
